@@ -24,21 +24,6 @@ const reply = {
         action_id: 'button-action',
       },
     },
-    {
-      type: 'actions',
-      elements: [
-        {
-          type: 'button',
-          text: {
-            type: 'plain_text',
-            text: 'Click Me',
-            emoji: true,
-          },
-          value: 'click_me_123',
-          action_id: 'actionId-0',
-        },
-      ],
-    },
   ],
 };
 
